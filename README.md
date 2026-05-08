@@ -1,28 +1,29 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Muhammad%20Zohaib&fontSize=70&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=⚡%20AI%20Engineer%20·%20Data%20Scientist%20·%20Full%20Stack%20Developer&descAlignY=75&descSize=22&descColor=00d4ff&stroke=00d4ff&strokeWidth=2)
+<!-- HERO BANNER -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,60:0c6291,100:00d4ff&height=280&section=header&text=Muhammad%20Zohaib&fontSize=72&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=⚡%20AI%20Engineer%20%20·%20%20Data%20Scientist%20%20·%20%20Full%20Stack%20Developer&descAlignY=68&descSize=20&descColor=00d4ff)
 
-</div>
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=600&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=🤖+Building+Intelligent+Systems+from+Scratch;🧠+Deep+Learning+%7C+CNNs+%7C+Computer+Vision;👁️+YOLOv8+%7C+OpenCV+%7C+Image+Classification;⚙️+x86+Assembly+%7C+Bare-Metal+Engineering;🚀+BS+Data+Science+%40+FAST+NUCES+Lahore;🌐+MERN+Stack+%7C+REST+APIs+%7C+Streamlit+Apps)](https://git.io/typing-svg)
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=600&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=🤖+Building+Intelligent+Systems+from+Scratch;🧠+Deep+Learning+%7C+CNNs+%7C+Computer+Vision;👁️+YOLOv8+%7C+OpenCV+%7C+Image+Classification;⚙️+x86+Assembly+%7C+Bare-Metal+Engineering;🚀+BS+Data+Science+%40+FAST+NUCES+Lahore;🌐+MERN+Stack+%7C+REST+APIs+%7C+Streamlit+Apps)](https://git.io/typing-svg)
+<!-- PORTFOLIO BADGE -->
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-muhammad--zohaib--158.vercel.app-00d4ff?style=for-the-badge&labelColor=0d1117&color=00d4ff)](https://muhammad-zohaib-158.vercel.app/)
 
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-muhammad--zohaib--158.vercel.app-00d4ff?style=for-the-badge&labelColor=0d1117&color=00d4ff)](https://muhammad-zohaib-158.vercel.app/)
-
+<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zohaib--mzg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/zohaib-mzg)
 [![GitHub](https://img.shields.io/badge/GitHub-zohaib--mzg-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/zohaib-mzg)
 [![Gmail](https://img.shields.io/badge/Gmail-zohaib.mzg158-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:zohaib.mzg158@gmail.com)
 [![X](https://img.shields.io/badge/X_(Twitter)-zohaib__mzg-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/zohaib_mzg)
 [![Instagram](https://img.shields.io/badge/Instagram-zohaib.mzg-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/zohaib.mzg)
 
+<br/>
+
+<!-- INFO BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=zohaib-mzg&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117)
-![Location](https://img.shields.io/badge/📍_Location-Lahore,_Pakistan-00ff9d?style=for-the-badge&labelColor=0d1117)
-![CGPA](https://img.shields.io/badge/🎓_FAST_NUCES-CGPA_3.35/4.0-ff6b6b?style=for-the-badge&labelColor=0d1117)
+![Location](https://img.shields.io/badge/📍%20Location-Lahore%2C%20Pakistan-00ff9d?style=for-the-badge&labelColor=0d1117)
+![CGPA](https://img.shields.io/badge/🎓%20FAST%20NUCES-CGPA%203.35%2F4.0-ff6b6b?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -312,14 +313,18 @@ print(me.philosophy())
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00d4ff?style=for-the-badge&labelColor=0d1117)](https://muhammad-zohaib-158.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00d4ff?style=for-the-badge&labelColor=0d1117)](https://muhammad-zohaib-158.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/zohaib-mzg)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:zohaib.mzg158@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:zohaib.mzg158@gmail.com)
 [![X](https://img.shields.io/badge/X_(Twitter)-Follow-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/zohaib_mzg)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/zohaib.mzg)
 
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=800&color=00FF9D&center=true&vCenter=true&width=700&height=50&lines=💬+%22The+goal+is+to+turn+data+into+information...%22;💬+%22...and+information+into+intelligence.%22;🚀+Muhammad+Zohaib+·+AI+Engineer+·+Lahore+🇵🇰)](https://git.io/typing-svg)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=twinkling)
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0c6291,100:0d1117&height=150&section=footer&animation=twinkling)
 
 </div>
