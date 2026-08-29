@@ -1,330 +1,214 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,60:0c6291,100:00d4ff&height=280&section=header&text=Muhammad%20Zohaib&fontSize=72&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=⚡%20AI%20Engineer%20%20·%20%20Data%20Scientist%20%20·%20%20Full%20Stack%20Developer&descAlignY=68&descSize=20&descColor=00d4ff)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0B0F,50:151812,100:F5C518&height=210&section=header&text=Muhammad%20Zohaib&fontSize=46&fontAlignY=42&animation=fadeIn&fontColor=FFFFFF&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Full%20Stack%20Developer&descAlignY=63&descSize=18&descColor=F5C518" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=600&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=52&lines=🤖+Building+Intelligent+Systems+from+Scratch;🧠+Deep+Learning+%7C+CNNs+%7C+Computer+Vision;👁️+YOLOv8+%7C+OpenCV+%7C+Image+Classification;⚙️+x86+Assembly+%7C+Bare-Metal+Engineering;🚀+BS+Data+Science+%40+FAST+NUCES+Lahore;🌐+MERN+Stack+%7C+REST+APIs+%7C+Streamlit+Apps)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F5C518&center=true&vCenter=true&width=650&lines=Turning+data+into+impact%2C+one+system+at+a+time.;BS+Data+Science+%40+FAST-NUCES+Lahore;Building+with+Python+%C2%B7+C%2B%2B+%C2%B7+JavaScript;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 
 <br/>
 
-<!-- PORTFOLIO BADGE -->
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-muhammad--zohaib--158.vercel.app-00d4ff?style=for-the-badge&labelColor=0d1117&color=00d4ff)](https://muhammad-zohaib-158.vercel.app/)
+<a href="https://muhammad-zohaib-158.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-muhammad--zohaib--158.vercel.app-F5C518?style=for-the-badge&labelColor=0A0B0F" /></a>
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zohaib--mzg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/zohaib-mzg)
-[![GitHub](https://img.shields.io/badge/GitHub-zohaib--mzg-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/zohaib-mzg)
-[![Gmail](https://img.shields.io/badge/Gmail-zohaib.mzg158-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:zohaib.mzg158@gmail.com)
-[![X](https://img.shields.io/badge/X_(Twitter)-zohaib__mzg-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/zohaib_mzg)
-[![Instagram](https://img.shields.io/badge/Instagram-zohaib.mzg-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/zohaib.mzg)
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/zohaib-mzg"><img src="https://img.shields.io/badge/LinkedIn-0A0B0F?style=for-the-badge&logo=linkedin&logoColor=F5C518" /></a>
+<a href="mailto:zohaib.mzg158@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0B0F?style=for-the-badge&logo=gmail&logoColor=F5C518" /></a>
+<a href="https://x.com/zohaib_mzg"><img src="https://img.shields.io/badge/X-0A0B0F?style=for-the-badge&logo=x&logoColor=F5C518" /></a>
+<a href="https://www.instagram.com/zohaib.mzg"><img src="https://img.shields.io/badge/Instagram-0A0B0F?style=for-the-badge&logo=instagram&logoColor=F5C518" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=zohaib-mzg&style=for-the-badge&color=0A0B0F&label=PROFILE+VIEWS&labelColor=F5C518" />
+<img src="https://img.shields.io/badge/📍_Lahore,_Pakistan-0A0B0F?style=for-the-badge&labelColor=F5C518&color=0A0B0F" />
+<img src="https://img.shields.io/badge/🎓_FAST--NUCES_CGPA-3.35%2F4.0-0A0B0F?style=for-the-badge&labelColor=F5C518&color=0A0B0F" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5C518,100:0A0B0F&height=3" width="100%"/>
 
 <br/>
-
-<!-- INFO BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=zohaib-mzg&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117)
-![Location](https://img.shields.io/badge/📍%20Location-Lahore%2C%20Pakistan-00ff9d?style=for-the-badge&labelColor=0d1117)
-![CGPA](https://img.shields.io/badge/🎓%20FAST%20NUCES-CGPA%203.35%2F4.0-ff6b6b?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zohaib-mzg&bg_color=0d1117&color=00d4ff&line=00ff9d&point=ffffff&area=true&hide_border=true&area_color=0066ff&custom_title=Muhammad%20Zohaib's%20Contribution%20Graph&radius=8)
-
-</div>
-
----
 
 ## 🧬 About Me
 
-```python
-#!/usr/bin/env python3
-# ══════════════════════════════════════════════════════════════
-#   Muhammad Zohaib  ·  AI Engineer & Data Scientist
-#   Lahore, Pakistan  ·  FAST NUCES  ·  BS Data Science
-# ══════════════════════════════════════════════════════════════
+<table>
+<tr>
+<td width="60%" valign="top">
 
-class MuhammadZohaib:
+I'm a **Data Science student at FAST‑NUCES Lahore**, building things across the stack — from **machine‑learning pipelines** and **computer‑vision models**, to **full‑stack web platforms**, down to **bare‑metal x86 assembly**.
 
-    def __init__(self):
-        self.name        = "Muhammad Zohaib"
-        self.alias       = "zohaib-mzg"
-        self.location    = "Lahore, Pakistan 🇵🇰"
-        self.university  = "FAST NUCES Lahore"
-        self.degree      = "BS Data Science  ·  CGPA: 3.35 / 4.0"
-        self.portfolio   = "https://muhammad-zohaib-158.vercel.app/"
-        self.available   = True  # Open to opportunities ✅
+- 🔭 Currently building AI‑powered systems &amp; enterprise‑grade platforms
+- 🧠 Currently learning transformer architectures &amp; LLMOps
+- 🎓 Studying BS Data Science · expected July 2028
+- 🤝 Open to internships, research collaborations &amp; open source
+- ⚡ Fun fact: I've shipped a fully playable game in raw x86 Assembly
 
-    @property
-    def expertise(self):
-        return {
-            "AI & ML"          : ["Deep Learning", "CNNs", "scikit-learn", "TensorFlow", "Keras"],
-            "Computer Vision"  : ["OpenCV", "YOLOv8", "Image Classification", "Object Detection"],
-            "Low-Level Systems": ["x86 Assembly", "VGA Rendering", "ISR", "NASM", "DOSBox"],
-            "Full Stack"       : ["React.js", "Node.js", "Express.js", "MongoDB", "REST APIs"],
-            "Data & Analytics" : ["Python", "Pandas", "NumPy", "Matplotlib", "Streamlit"],
-            "Languages"        : ["Python", "C++", "JavaScript", "SQL", "x86 Assembly"],
-        }
+</td>
+<td width="40%" valign="top" align="center">
 
-    @property
-    def currently(self):
-        return {
-            "🧠 Learning"   : "Transformer architectures · LLMOps · MLflow",
-            "🔭 Building"   : "AI-powered systems & enterprise platforms",
-            "📚 Studying"   : "BS Data Science @ FAST NUCES (Expected July 2028)",
-            "💡 Exploring"  : "Computer Vision pipelines & real-time inference",
-            "🤝 Open to"    : "Internships · Research Collaborations · Open Source",
-        }
+<img src="https://github-readme-stats.vercel.app/api?username=zohaib-mzg&show_icons=true&theme=transparent&hide_border=true&bg_color=0A0B0F&title_color=F5C518&icon_color=F5C518&text_color=E6E6E6&ring_color=F5C518" width="100%" />
 
-    def philosophy(self):
-        return "Turning data into impact — one intelligent system at a time. 🚀"
+</td>
+</tr>
+</table>
 
+<br/>
 
-me = MuhammadZohaib()
-print(me.philosophy())
-# Output: Turning data into impact — one intelligent system at a time. 🚀
-```
+## 🛠️ Tech Stack
 
----
+<div align="center">
+
+**Languages &amp; Core**
+
+<img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,mysql&theme=dark" />
+
+<br/><br/>
+
+**AI · Machine Learning · Computer Vision**
+
+<img src="https://img.shields.io/badge/TensorFlow-0A0B0F?style=for-the-badge&logo=tensorflow&logoColor=F5C518" />
+<img src="https://img.shields.io/badge/Keras-0A0B0F?style=for-the-badge&logo=keras&logoColor=F5C518" />
+<img src="https://img.shields.io/badge/scikit--learn-0A0B0F?style=for-the-badge&logo=scikitlearn&logoColor=F5C518" />
+<img src="https://img.shields.io/badge/OpenCV-0A0B0F?style=for-the-badge&logo=opencv&logoColor=F5C518" />
+<img src="https://img.shields.io/badge/NumPy-0A0B0F?style=for-the-badge&logo=numpy&logoColor=F5C518" />
+<img src="https://img.shields.io/badge/Pandas-0A0B0F?style=for-the-badge&logo=pandas&logoColor=F5C518" />
+<img src="https://img.shields.io/badge/Streamlit-0A0B0F?style=for-the-badge&logo=streamlit&logoColor=F5C518" />
+
+<br/><br/>
+
+**Full Stack &amp; Web**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,tailwind,supabase&theme=dark" />
+
+<br/><br/>
+
+**Tools &amp; Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+<img src="https://img.shields.io/badge/x86_Assembly-0A0B0F?style=for-the-badge&logoColor=F5C518" />
+<img src="https://img.shields.io/badge/NASM-0A0B0F?style=for-the-badge&logoColor=F5C518" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5C518,100:0A0B0F&height=3" width="100%"/>
+
+<br/>
 
 ## 🚀 Featured Projects
 
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&height=30&lines=🔥+7+Projects+·+AI+%7C+Full+Stack+%7C+Low-Level+Systems)
-
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/zohaib-mzg/NUSkor">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zohaib-mzg&repo=NUSkor&theme=transparent&hide_border=true&bg_color=0A0B0F&title_color=F5C518&icon_color=F5C518&text_color=E6E6E6" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/zohaib-mzg/Fashion_Image_Classifier">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zohaib-mzg&repo=Fashion_Image_Classifier&theme=transparent&hide_border=true&bg_color=0A0B0F&title_color=F5C518&icon_color=F5C518&text_color=E6E6E6" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/zohaib-mzg/Relive_Social_Media_App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zohaib-mzg&repo=Relive_Social_Media_App&theme=transparent&hide_border=true&bg_color=0A0B0F&title_color=F5C518&icon_color=F5C518&text_color=E6E6E6" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/zohaib-mzg/Alpha-Solar---Solar-Recommendation-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zohaib-mzg&repo=Alpha-Solar---Solar-Recommendation-System&theme=transparent&hide_border=true&bg_color=0A0B0F&title_color=F5C518&icon_color=F5C518&text_color=E6E6E6" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/zohaib-mzg/2-Player-Pong-Game">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zohaib-mzg&repo=2-Player-Pong-Game&theme=transparent&hide_border=true&bg_color=0A0B0F&title_color=F5C518&icon_color=F5C518&text_color=E6E6E6" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/zohaib-mzg/Bubble_Shooter_Game">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zohaib-mzg&repo=Bubble_Shooter_Game&theme=transparent&hide_border=true&bg_color=0A0B0F&title_color=F5C518&icon_color=F5C518&text_color=E6E6E6" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/HassanNawaz14/Travel-Buddy-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanNawaz14&repo=Travel-Buddy-&theme=transparent&hide_border=true&bg_color=0A0B0F&title_color=F5C518&icon_color=F5C518&text_color=E6E6E6&show_owner=true" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/HassanNawaz14/CADS-Bridge">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HassanNawaz14&repo=CADS-Bridge&theme=transparent&hide_border=true&bg_color=0A0B0F&title_color=F5C518&icon_color=F5C518&text_color=E6E6E6&show_owner=true" />
+</a>
+</td>
+</tr>
+</table>
 </div>
 
----
+<br/>
 
-### 🏢 CADS Bridge — Enterprise Analytics Platform
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5C518,100:0A0B0F&height=3" width="100%"/>
 
-> Bridging CA & Data Science teams with real-time intelligence
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/HassanNawaz14/CADS-Bridge)
-[![REST API](https://img.shields.io/badge/REST_APIs-00d4ff?style=flat-square)]()
-[![RBAC](https://img.shields.io/badge/RBAC-ff6b6b?style=flat-square)]()
-[![Real-Time](https://img.shields.io/badge/Real--Time-00ff9d?style=flat-square)]()
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HassanNawaz14/CADS-Bridge)
-
-- 🔐 Role-based dashboards & secure firm environments
-- 🤝 Real-time collaboration workflows
-- 📊 Conflict detection between revenue & financial actuals
-- 🏗️ Scalable system design architecture
-
----
-
-### ✈️ Travel Buddy — AI-Powered Travel Companion
-
-> Smart itinerary generation & companion matching platform
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/HassanNawaz14/Travel-Buddy-)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
-[![Maps API](https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)]()
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HassanNawaz14/Travel-Buddy-)
-
-- 🗺️ AI-powered itinerary generation & route optimization
-- 👥 Smart user matching based on preferences & budgets
-- 💰 Expense splitting & travel community features
-- 📱 Full stack responsive architecture
-
----
-
-### 👗 Fashion Image Classifier — 92.25% Accuracy
-
-> End-to-end AI fashion classification pipeline with live deployment
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/zohaib-mzg/Fashion_Image_Classifier)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)]()
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)]()
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)]()
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zohaib-mzg/Fashion_Image_Classifier)
-
-- 🧠 Custom CNN vs Random Forest (HOG + HSV features)
-- 📦 Trained on 8,000 real product images · 8 categories
-- 🌐 Deployed via Streamlit for live predictions
-- 📈 Side-by-side model comparison dashboard
-
----
-
-### ☀️ Alpha Solar Recommendation System
-
-> Smart solar energy optimization & configuration engine
-
-[![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/zohaib-mzg/Alpha-Solar---Solar-Recommendation-System)
-[![OOP](https://img.shields.io/badge/OOP-ff6b6b?style=flat-square)]()
-[![STL](https://img.shields.io/badge/STL-00ff9d?style=flat-square)]()
-[![File I/O](https://img.shields.io/badge/File_I%2FO-00d4ff?style=flat-square)]()
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zohaib-mzg/Alpha-Solar---Solar-Recommendation-System)
-
-- 🔆 Recommends panels, inverters & battery configs
-- 📍 Location-based geographic optimization
-- 💡 Appliance load calculations & cost prediction
-- 📋 Automated CSV reporting & consumer CRUD
-
----
-
-### 🏓 2-Player Pong Game — Pure x86 Assembly
-
-> Classic Pong running on bare-metal 16-bit DOS
-
-[![x86 ASM](https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat-square)](https://github.com/zohaib-mzg/2-Player-Pong-Game)
-[![NASM](https://img.shields.io/badge/NASM-FF0000?style=flat-square)]()
-[![DOSBox](https://img.shields.io/badge/DOSBox-555555?style=flat-square)]()
-[![VGA](https://img.shields.io/badge/VGA_B800h-00d4ff?style=flat-square)]()
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zohaib-mzg/2-Player-Pong-Game)
-
-- ⚡ Interrupt-driven 60 FPS gameplay (IRQ0 timer)
-- 🖥️ Direct VGA text memory rendering at B800h
-- 🎮 Dynamic ball physics & responsive paddle controls
-- 🏆 First-to-five scoring with instant restart
-
----
-
-### 🫧 Bubble Shooter Game — Retro x86 Assembly
-
-> Fully low-level retro shooter, zero OS dependencies
-
-[![x86 ASM](https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat-square)](https://github.com/zohaib-mzg/Bubble_Shooter_Game)
-[![NASM](https://img.shields.io/badge/NASM-FF0000?style=flat-square)]()
-[![ISR](https://img.shields.io/badge/ISR-ff6b6b?style=flat-square)]()
-[![VGA Buffer](https://img.shields.io/badge/VGA_Buffer-00ff9d?style=flat-square)]()
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zohaib-mzg/Bubble_Shooter_Game)
-
-- ⌨️ Custom keyboard & timer interrupt service routines
-- 🎯 Real-time collision detection · no BIOS calls
-- 💥 Shooting mechanics & animated win/lose screens
-- 🔧 Hardware-level rendering — zero OS dependencies
-
----
-
-### 📱 ReLive — Modern Social Media Platform
-
-> Full-stack social media app · Interactive & Real-Time
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/zohaib-mzg/Relive_Social_Media_App)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)]()
-[![REST API](https://img.shields.io/badge/REST_APIs-00d4ff?style=flat-square)]()
-[![Auth](https://img.shields.io/badge/Authentication-ff6b6b?style=flat-square)]()
-[![Responsive](https://img.shields.io/badge/Responsive_UI-00ff9d?style=flat-square)]()
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zohaib-mzg/Relive_Social_Media_App)
-
-- 🔐 Secure auth systems & session management
-- 📰 Responsive feeds with post interactions
-- 👤 Profile management & follow system
-- 🏗️ Scalable MERN architecture
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&height=30&lines=⚡+Languages+%7C+Frameworks+%7C+Tools+%7C+Platforms)
-
-**— Languages —**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge&logoColor=white)
-
-**— AI / Machine Learning —**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**— Full Stack & Web —**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**— Tools & Platforms —**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![NASM](https://img.shields.io/badge/NASM-FF0000?style=for-the-badge&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
+<br/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zohaib-mzg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00FF9D&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true&border_radius=12)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zohaib-mzg&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00FF9D&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00FF9D&dates=888888&border_radius=12)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zohaib-mzg&theme=transparent&hide_border=true&background=0A0B0F&stroke=F5C518&ring=F5C518&fire=F5C518&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F5C518&sideLabels=F5C518&dates=999999" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-mzg&layout=compact&theme=transparent&hide_border=true&bg_color=0A0B0F&title_color=F5C518&text_color=E6E6E6&langs_count=8" width="35%" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-mzg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8&border_radius=12)
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zohaib-mzg&bg_color=0D1117&color=F5C518&line=F5C518&point=FFFFFF&area=true&hide_border=true&area_color=00F9FD&custom_title=Muhammad%20Zohaib%27s%20Contribution%20Graph&radius=12" width="97%" />
 
 </div>
 
----
+<br/>
 
 ## 🏆 Achievements
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=zohaib-mzg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
+<img src="https://github-profile-trophy.vercel.app/?username=zohaib-mzg&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
----
+<br/>
 
-## 🎓 Education Timeline
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5C518,100:0A0B0F&height=3" width="100%"/>
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│  🎓  2024 → Present  ·  FAST NUCES Lahore                                  │
-│      BS Data Science  ·  CGPA: 3.35 / 4.0  ·  Expected July 2028          │
-│      AI · Machine Learning · Data Analytics · Software Engineering          │
-│                                                                             │
-│  📘  2022 → 2024  ·  KIPS College Lahore                                   │
-│      Intermediate (ICS)  ·  Grade: 88.8%                                   │
-│      Mathematics · Programming · Analytical Thinking                        │
-│                                                                             │
-│  📗  2018 → 2022  ·  Jauhar Foundation High School                         │
-│      Matriculation  ·  Grade: 95.5%                                        │
-│      Foundation in Technology & Computing                                   │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<br/>
 
----
+## 🎓 Education
 
-## 🌐 Connect With Me
+<div align="center">
+<table>
+<tr>
+<th>Timeline</th><th>Institute</th><th>Program</th><th>Result</th>
+</tr>
+<tr>
+<td>2024 — Present</td><td>FAST‑NUCES Lahore</td><td>BS Data Science</td><td>CGPA 3.35 / 4.0</td>
+</tr>
+<tr>
+<td>2022 — 2024</td><td>KIPS College Lahore</td><td>Intermediate (ICS)</td><td>88.8%</td>
+</tr>
+<tr>
+<td>2018 — 2022</td><td>Jauhar Foundation High School</td><td>Matriculation</td><td>95.5%</td>
+</tr>
+</table>
+</div>
+
+<br/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00d4ff?style=for-the-badge&labelColor=0d1117)](https://muhammad-zohaib-158.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/zohaib-mzg)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:zohaib.mzg158@gmail.com)
-[![X](https://img.shields.io/badge/X_(Twitter)-Follow-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/zohaib_mzg)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/zohaib.mzg)
+**Let's build something intelligent together.**
 
-<br/>
+<a href="https://muhammad-zohaib-158.vercel.app/"><img src="https://img.shields.io/badge/Say_Hello_→-F5C518?style=for-the-badge&labelColor=0A0B0F" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=4000&pause=800&color=00FF9D&center=true&vCenter=true&width=700&height=50&lines=💬+%22The+goal+is+to+turn+data+into+information...%22;💬+%22...and+information+into+intelligence.%22;🚀+Muhammad+Zohaib+·+AI+Engineer+·+Lahore+🇵🇰)](https://git.io/typing-svg)
-
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0c6291,100:0d1117&height=150&section=footer&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0B0F,50:151812,100:F5C518&height=120&section=footer" width="100%"/>
 
 </div>
